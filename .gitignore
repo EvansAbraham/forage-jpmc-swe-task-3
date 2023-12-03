@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+datafeed/venv
 
 # testing
 /coverage
